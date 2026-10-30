@@ -57,7 +57,8 @@ Total Payment Amount = SUM(Payments[PaymentAmount])
 
 ### Page 1: Insurance Claims Analytics (Executive Overview)
 
-![Executive Overview](1_executive_overview.png)
+<img width="622" height="340" alt="page 1 final" src="https://github.com/user-attachments/assets/ffc36d16-2102-4cec-9ede-0fecc92441e1" />
+
 
 A one-glance summary of the business and its claims performance.
 
@@ -69,7 +70,8 @@ A one-glance summary of the business and its claims performance.
 
 ### Page 2: Claim Performance & Analysis
 
-![Claim Performance & Analysis](2_claim_performance.png)
+<img width="608" height="343" alt="page 2 final" src="https://github.com/user-attachments/assets/82c03896-3caa-4ee6-baea-c6adf5f05eed" />
+
 
 Looks at claim status, settlement trends and processing efficiency.
 
@@ -82,7 +84,8 @@ Looks at claim status, settlement trends and processing efficiency.
 
 ### Page 3: Policy & Payment Analytics
 
-![Policy & Payment Analytics](3_policy_payment.png)
+<img width="610" height="342" alt="page 3 final " src="https://github.com/user-attachments/assets/58ad258a-c5f4-4720-940f-78a7abacee61" />
+
 
 Shows the policy portfolio, premium collection and payment behaviour.
 
