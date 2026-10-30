@@ -139,4 +139,5 @@ Power BI Desktop, Power Query, Data Modeling, DAX, data visualization, dashboard
 ## Author
 
 **Ritesh Nile**
-[GitHub](https://github.com/your-username) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+[GitHub](https://github.com/your-username) | [LinkedIn]https://www.linkedin.com/in/ritesh-nile28/
+
