@@ -1,6 +1,6 @@
 # Insurance Claims & Policy Analytics Dashboard (Power BI)
 
-A 3-page interactive Power BI dashboard that analyses an insurance company's policy portfolio, premium collection, payment performance and claim processing, built on a relational data model with DAX measures.
+3-page interactive Power BI dashboard that analyses an insurance company's policy portfolio, premium collection, payment performance and claim processing, built on a relational data model with DAX measures.
 
 > **Note:** The dataset is synthetic (generated for learning and portfolio purposes). It is modelled on a typical Indian insurance business operating in Maharashtra and nearby states, with amounts in INR.
 
